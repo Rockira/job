@@ -1,0 +1,14 @@
+server:
+  port: 9065
+
+spring:
+  datasource:
+    url: jdbc:mariadb://192.168.121.153:3306/erp_dealer?allowMultiQueries=true&amp;autoReconnect=true&amp;autoReconnectForPools=true&amp;useUnicode=true&amp;characterEncoding=UTF-8
+    username: root
+    password: Cango153
+    driver-class-name: org.mariadb.jdbc.Driver
+
+mybatis:
+  mapper-locations:
+  - classpath:com/roc/job/mapper/*.xml
+  type-aliases-package: com.roc.job.entity
