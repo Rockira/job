@@ -1,0 +1,19 @@
+
+RRRRRRRRRRRRRRRRR        OOOOOOOOO             CCCCCCCCCCCCC
+R::::::::::::::::R     OO:::::::::OO        CCC::::::::::::C
+R::::::RRRRRR:::::R  OO:::::::::::::OO    CC:::::::::::::::C
+RR:::::R     R:::::RO:::::::OOO:::::::O  C:::::CCCCCCCC::::C
+  R::::R     R:::::RO::::::O   O::::::O C:::::C       CCCCCC
+  R::::R     R:::::RO:::::O     O:::::OC:::::C
+  R::::RRRRRR:::::R O:::::O     O:::::OC:::::C
+  R:::::::::::::RR  O:::::O     O:::::OC:::::C
+  R::::RRRRRR:::::R O:::::O     O:::::OC:::::C
+  R::::R     R:::::RO:::::O     O:::::OC:::::C
+  R::::R     R:::::RO:::::O     O:::::OC:::::C
+  R::::R     R:::::RO::::::O   O::::::O C:::::C       CCCCCC
+RR:::::R     R:::::RO:::::::OOO:::::::O  C:::::CCCCCCCC::::C
+R::::::R     R:::::R OO:::::::::::::OO    CC:::::::::::::::C
+R::::::R     R:::::R   OO:::::::::OO        CCC::::::::::::C
+RRRRRRRR     RRRRRRR     OOOOOOOOO             CCCCCCCCCCCCC
+
+${spring-boot.version}
