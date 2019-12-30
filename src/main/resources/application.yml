@@ -12,3 +12,9 @@ mybatis:
   mapper-locations:
   - classpath:com/roc/job/mapper/*.xml
   type-aliases-package: com.roc.job.entity
+
+eureka:
+  client:
+    service-url:
+      #设置与Eureka Server交互的地址，查询服务和注册服务都需要依赖这个地址。默认是http://localhost:8761/eureka ；多个地址可使用 , 分隔。
+      defaultZone: http://10.42.1.30:8761/eureka/,http://10.42.1.30:8762/eureka/,http://10.42.1.30:8763/eureka/
